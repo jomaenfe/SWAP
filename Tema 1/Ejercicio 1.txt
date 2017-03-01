@@ -1,0 +1,17 @@
+Servicios web de apache: Es el servidor más utilizado en todo el mundo. Entre los servicios que proporciona encontramos: Es capaz de atender de manera eficiente y simultanea varias peticiones HTTP. 
+Restringe el acceso a determinados ficheros, gestiona autenticaciones de usuarios y filtrado de peticiones. Maneja errores e informa a los usuarios de ellos. Informa a los navegadores del formato y
+el tipo de información a transmitir. También dispone de gestión de logs, estos ficheros se encargan de registrar ciertas actividades en el servidor como autenticaciones, errores, etc. 
+
+Servicios web de nginx: Este servidor incluye, además del servidor web HTTP, servicios de correo electrónico. Permite ser utilizado como proxy inverso (modo que se usa para equilibrar carga entre servidores).
+Las principales características son: Aceleración de aplicaciones, cifrado TLS, gestión de ancho de banda, balanceo de carga y streaming de video.
+
+Servicios web de thttpd: La principal característica de este servidor es que es portable. Tiene implementado lo mínimo para que HTTP se pueda implementar. Ocupa el espacio mínimo posible en memoria. Se compila
+de forma asegurada en la mayoría de los sistemas UNIX, entre los más compatibles están: FreeBSD, SunOS 4, Solaris 2, BSD/O, Linux y OSF. En cuanto a la velocidad de carga, es más rápido que muchos de los servidores
+actuales.
+
+Servicios web de Cherokee: Es un servidor que se centra en ofrecer una mayor estabilidad y rendimiento que la competencia. Está escrito completamente en C y puede usarse como servidor embebido. Tiene un amplio soporte
+de tecnologías web como son: FastCGI, SCGI, PHP, uWSGI, SSI, CGI, LDAP TLS/SSL, HTTP, proxy, streaming, video, almacenamiento de caché en contenido, control de tráfico, etc. Este servidor aún sigue en desarrollo.
+
+Servicios web de Node.js: Es una plataforma de desarrollo Back-End multiplataforma que trabaja con una arquitectura que se orienta a eventos, utiliza javascript como su lenguaje de desarrollo. Para su ejecución
+utiliza el motor v8 desarrollado por google que le da su característica  principal que es la velocidad a la que se ejecuta. Node resuelve el problema de las conexiones máximas simultaneas aumentando ese número.
+Node es menos eficiente que apache o los demás servidores ya que no soporta tantos servicios web externos.
