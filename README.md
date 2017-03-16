@@ -2,4 +2,4 @@
 
 Aqui voy a subir ejercicios y prácticas relacionadas con la asignatura.
 
-![Captura 1](https://www.google.es/search?q=servidores+web&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvh6Hu49rSAhWCCBoKHaC0BPkQ_AUIBigB&biw=1920&bih=950#imgrc=ykw44jkG4qkoAM: "Captura 1")
+![Imagen 1](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiX76Ty49rSAhWBVRoKHYQ4B7YQjRwIBw&url=http%3A%2F%2Fstratia.mx%2FAplicacionesWeb&psig=AFQjCNF6fMBrNsKyqJVNuUbmh7pVJjfdMw&ust=1489745307863758 "Imagen 1")
