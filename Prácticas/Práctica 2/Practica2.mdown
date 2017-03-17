@@ -21,3 +21,10 @@ Al ejecutar el comando que muestro arriba, en la captura 3, la maquina secundari
 
 ![Captura 4](http://i.imgur.com/6mWQcf0.jpg "Captura 4")
 Captura 4
+
+**Programando tareas en crontab:** Crontab es una utilidad del sistema que sirve para programar tareas que se ejecutarán en segundo plano en un día y hora concretas. Para visualizarlo debemos teclear la orden `sudo crontab -l`, con esto nos mostrará en terminal una imagen como la que se aprecia en la captura 5. Para poder editarlo debemos usar la orden `sudo crontab -e`, en la que primero nos pedirá que seleccionemos el editor de texto plano con el que queremos editarlo y más tarde podremos editarlo. 
+
+![Captura 5](http://imgur.com/dc4xquC.jpg "Captura 5")
+Captura 5
+
+Como se ve en la captura 5, he creado una tarea que a cada hora hace un "backup" de la máquina principal en la máquina secundaria. La sintaxis de la línea significa que en el minuto 1 de cada, hora, día y més del año se ejecuta como root la orden "rsync" para hacer la sincronización.
